@@ -22,8 +22,8 @@ Print the transformed features
 
 ## PPROGRAM:
 ```
-Developed by : VISHAL GOWTHAMAN K R
-Registration Number : 212221230123
+Developed by : KERSOAN P
+Registration Number : 212221230050
 ```
 ```
 import numpy as np
